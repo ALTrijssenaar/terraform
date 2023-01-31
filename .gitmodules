@@ -1,0 +1,6 @@
+[submodule "infra/terraform/modules/terraform-azurerm-module1"]
+	path = infra/terraform/modules/terraform-azurerm-module1
+	url = https://github.com/ALTrijssenaar/terraform-azurerm-module1
+[submodule "infra/terraform/modules/terraform-azurerm-module2"]
+	path = infra/terraform/modules/terraform-azurerm-module2
+	url = https://github.com/ALTrijssenaar/terraform-azurerm-module2
